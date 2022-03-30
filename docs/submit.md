@@ -8,7 +8,7 @@ Rules: READ ALL DIRECTIONS CAREFULLY
 
 Art to be submitted can be any size howver must be a ratio of 2.5 x 3.5
 
-Image size should not be over 10mb, if so please message (@dankboost) before submitting. If you are making a large file for your asset you can make a different display image for the directory.
+Image size should not be over 10mb, if so please message (@PepePeddler) before submitting. If you are making a large file for your asset you can make a different display image for the directory.
 
 Issuance must be LOCKED using the lock token function on Counterparty.
 
