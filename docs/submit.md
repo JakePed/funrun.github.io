@@ -29,10 +29,10 @@ Please consider donating btc, xcp or even a card to help support the project, an
 *Note: Please make sure your assests are minted before making a submission!*{: .small}
 
 <form
-  action="https://usebasin.com/f/1944773b2de6"
-  method="POST"
-  enctype="multipart/form-data"
-  id="form"
+    action="https://usebasin.com/f/1944773b2de6"
+    method="POST"
+    enctype="multipart/form-data"
+    id="form"
 >
 <label for="email">Email <span class="small">(required)</span></label>
 <input type="email" name="email" placeholder="john@doe.com" required />
@@ -44,7 +44,6 @@ Please consider donating btc, xcp or even a card to help support the project, an
 <input type="text" name="MP4 URL" />
 <label for="text">Supply <span class="small">(required)</span></label>
 <input type="text" name="Token Supply" />
-
 <button type="submit" id="form-button">Send</button>
 <div id="form-message"></div>
 </form>
