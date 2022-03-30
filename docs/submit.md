@@ -23,43 +23,34 @@ No websites, no QR codes on the cards.
 Do not distribute your cards until they are confirmed and live of the website.
 
 Please consider donating btc, xcp or even a card to help support the project, and cover any assosiated fees required to run it.
-[bc1qfzfjr4e4wsm97erhdj9lnfaf6jeh4m0vunmsv0](https://xchain.io/address/bc1qfzfjr4e4wsm97erhdj9lnfaf6jeh4m0vunmsv0){:target="_blank"}
+[1LQyCDWKbzwsPHcoysRGXgjsjDgd7r7FTY](https://xchain.io/address/1LQyCDWKbzwsPHcoysRGXgjsjDgd7r7FTY){:target="https://xchain.io/address/1LQyCDWKbzwsPHcoysRGXgjsjDgd7r7FTY"}
 
 
 *Note: Please make sure your assests are minted before making a submission!*{: .small}
 
 <form
-  action="https://usebasin.com/f/1a1d2b97c41f"
+  action="https://usebasin.com/f/1944773b2de6"
   method="POST"
   enctype="multipart/form-data"
-  id="my-contact-form"
+  id="form"
 >
 <label for="email">Email <span class="small">(required)</span></label>
 <input type="email" name="email" placeholder="john@doe.com" required />
-<label for="message">Message <span class="small">(required)</span></label>
-<textarea name="message" wrap="hard" required>
-name: ASSET_NAME
-author: ASSET_AUTHOR
-image: https://i.imgur.com/ASSET_IMAGE.jpg
-video: https://i.imgur.com/ASSET_VIDEO.mp4 # optional
-date: YYYY-MM-DD # mint date
-description: A SHORT DESCRIPTION FOR THE SERIES
-subs: 
-  -
-    name: FIRST_SUBASSET_NAME
-    image: https://i.imgur/FIRST_SUBASSET_IMAGE.jpg
-    supply: FIRST_SUBASSET_SUPPLY 
-  -
-    name: SECOND_SUBASSET_NAME
-    image: https://i.imgur/SECOND_SUBASSET_IMAGE.jpg
-    supply: SECOND_SUBASSET_SUPPLY 
-</textarea>
+<label for="text">Artist name <span class="small">(required)</span></label>
+<input type="text" name="Artist Name" />
+<label for="text">Image/GIF URL <span class="small">(required)</span></label>
+<input type="text" name="Image/GIF URL" />
+<label for="text">MP4 URL <span class="small">(not required)</span></label>
+<input type="text" name="MP4 URL" />
+<label for="text">Supply <span class="small">(required)</span></label>
+<input type="text" name="Token Supply" />
+
 <button type="submit" id="form-button">Send</button>
 <div id="form-message"></div>
 </form>
 
 <script type="text/javascript">
-var form = document.getElementById("my-contact-form");
+var form = document.getElementById("form");
 var formMessage = document.getElementById("form-button");
 var formButton = document.getElementById("form-button");
 form.onsubmit = function(event) {
