@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RareBTCart
+title: PHOCKHEADS
 description: >- # this means to ignore newlines until "baseurl:"
-  A creative community collection celebrating bitcoin
-twitter_username: RareBTCart
-telegram_channel: RareBTCart
-github_username: PepePeddler
-github_repo: RareBTCart
+  Rescued from Namecoin Purgatory to live again on the Bitcoin Blockchain!
+author: Made by Mike In Space & Mario Dian
+telegram_channel:  PHOCKHEADS
+github_username: phockheads
+github_repo: phockheads
 
-#domain: pepepeddler.github.io     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-#url: https://pepepeddler.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+#domain: mariodian.github.io     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+#url: https://mariodian.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # baseurl: /phockheads
 
 # Build settings
@@ -35,7 +35,6 @@ theme: minima
 plugins:
   - jekyll-feed
 markdown: kramdown
-permalink: /:title/
 
 collections:
   series:
