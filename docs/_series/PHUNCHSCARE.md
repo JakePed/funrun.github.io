@@ -2,7 +2,7 @@
 name: PHUNCHSCARE
 author: Pepe Peddler
 image: https://arweave.net/zkZVKuLyUqG83a0b1ZLqfUDSf9tXU3SK0Iu3K0Gua5Q/8qbg3i_video.mp4
-date: 1
+date: 01/04/2022
 description: TEST text
 subs: 
   -
