@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PHOCKHEADS
+title: RareBTCart
 description: >- # this means to ignore newlines until "baseurl:"
-  Rescued from Namecoin Purgatory to live again on the Bitcoin Blockchain!
-author: Made by Mike In Space & Mario Dian
-telegram_channel:  PHOCKHEADS
-github_username: phockheads
-github_repo: phockheads
+  A art collection built on Bitcoin, to celebrate everything about Bitcoin, the people, the events!
+author: A Community collection
+telegram_channel:  RareBTCArt
+github_username: PepePeddler
+github_repo: rarebtcart
 
-#domain: mariodian.github.io     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-#url: https://mariodian.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-# baseurl: /phockheads
+#domain: pepepeddler.github.io     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+#url: https://pepepeddler.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+# baseurl: /pepepeddler
 
 # Build settings
 theme: minima
