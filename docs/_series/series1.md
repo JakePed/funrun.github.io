@@ -9,8 +9,9 @@ subs:
   -
     name: FACE
     image: https://arweave.net/3-w6e0GFhzlc-IzRf02ZAKyvqZ5bRBSRwlT6L8jV7bE/wze6mz_image.png
+    supply: 81    
     author: Pepe Peddler
-    supply: 81
+    
 
 # Do NOT edit beyond here
 layout: series
