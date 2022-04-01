@@ -6,8 +6,6 @@ permalink: /about/
 
 RareBTC.art is a open door community collection created to celebrate bitcoin, the community, and events as they happen.
 
-![RAREBTC.ART](https://i.imgur.com/KqZHFHm.jpg){: width="800px"}
-
 
 We encourage users to use both dispenser and the counterparty dex to sell assets and trade
 
