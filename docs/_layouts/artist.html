@@ -26,26 +26,12 @@ permalink: /artists/:artist
 </div>
 
 <ul class="sub-assets">
-{% if filtered_phockheads[0] %}
-  <li class="header"><h3>PHOCKHEADS</h3></li>
-  <li class="description">
-    <p><a href="{{ site.series[0].url | relative_url }}">VIEW SERIES</a></p>
-  </li>
-{% endif %}
-{% for asset in filtered_phockheads %}
-  <li>
-    <img src="{{ asset.image }}">
-    <a href="{{ xchain }}/PHOCKHEADS.{{ asset.name }}" target="_blank" class="overflow-ellipsis">
-      <b>{{ asset.name }}</b>
-    </a>
-    <p class="small">Card {{forloop.index}}, Supply: {{ asset.supply }}</p>
-  </li>
-{% endfor %}
 {% for asset in filtered %}
   {% assign index = forloop.index0 %}
   <li class="header"><h3>{{ asset.name }}</h3></li>
   <li class="description">
-    <p><a href="{{ asset.url | relative_url }}">VIEW SERIES</a></p>
+    <img src="{{ asset.image }}">
+    <p><a href="{{ asset.url | relative_url }}">VIEW CARD</a></p>
   </li>
   {% for sub in filtered[index].subs %}
   <li>
