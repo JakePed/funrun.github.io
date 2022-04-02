@@ -17,6 +17,3 @@ exclude: true
   </li>
 {% endfor %}
 </ul>
-  </li>
-{% endfor %}
-</ul>
