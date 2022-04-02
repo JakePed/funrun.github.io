@@ -1,7 +1,7 @@
 ---
 title: Pepe Peddler
 # your social media username
-twitter: 
+twitter: #pepepeddler
 instagram: 
 github:
 # your website including http:// or https://
