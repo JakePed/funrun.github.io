@@ -11,7 +11,7 @@ exclude: true
     <img src="{% if series.image != null and series.image != '' %}{{ series.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
     <a href="series/{{ series.name | downcase }}">
       <b>{{ series.name }}</b>
-    <b> Card {{forloop.index}}</b>
+    <p  Card {{forloop.index}}</p>
     <p class="small">Artist: {% if artist[0] %}<a href="{{ artist[0].url | relative_url }}">{{ series.author }}</a>{% else %}{{ series.author }}{% endif %}</p>
 
   </li>
