@@ -4,27 +4,25 @@ title: Submit
 permalink: /submit/
 ---
 
-Rules: READ ALL DIRECTIONS CAREFULLY
+Please Read Submission guidelines before submitting
 
-Art to be submitted can be any size howver must be a ratio of 2.5 x 3.5
+Art to be submitted must be a ratio of 2.5 x 3.5 (ex, 400x560), or 1:1 (square)
 
-Image size should not be over 10mb, if so please message (@PepePeddler) before submitting. If you are making a large file for your asset you can make a different display image for the directory.
+Images on the site are loaded via the hosted url, so we recommend keeping file sizes down as much as possible to speed up loading times. 
 
-Issuance must be LOCKED using the lock token function on Counterparty.
-
+Issuance must be LOCKED using the lock token 
 No divisible assets.
 
-NSFW is ok when done in an artistic manner with explanation/description included with the asset.
+NSFW is fine, when done in an artistic manner with explanation/description included with the asset.
 
-Minimum token supply is 21, no max, (No Burning lower than 21 Please) Physical Art, to be sold with the token, can be issued as 1 of 1's (please contact @PepePeddler directly).
+Minimum token supply is 21, (No Burning lower than 21 to respect the other artists and collectors) 
+In the event this happens, the artists work will have all links removed 
 
-No websites, no QR codes on the cards.
+Physical Art should be issued as a 1 of 1 with digital extras or prints being issued as subassests (please contact @PepePeddler directly to arange this).
 
-Do not distribute your cards until they are confirmed and live of the website.
+No websites or QR codes
 
-Please consider donating btc, xcp or even a card to help support the project, and cover any assosiated fees required to run it.
-[1LQyCDWKbzwsPHcoysRGXgjsjDgd7r7FTY](https://xchain.io/address/1LQyCDWKbzwsPHcoysRGXgjsjDgd7r7FTY){:target="https://xchain.io/address/1LQyCDWKbzwsPHcoysRGXgjsjDgd7r7FTY"}
-
+Cards must not be distributed before they are confirmed and live of the website. Any distribution prior will result in the work not being listed.
 
 *Note: Please make sure your assests are minted before making a submission!*{: .small}
 
@@ -38,6 +36,8 @@ Please consider donating btc, xcp or even a card to help support the project, an
 <input type="email" name="email" placeholder="john@doe.com" required />
 <label for="text">Artist name <span class="small">(required)</span></label>
 <input type="text" name="Artist Name" />
+<label for="text">Xchain Asset Link <span class="small">(required)</span></label>
+<input type="text" name="Asset Link" />
 <label for="text">Image/GIF URL <span class="small">(required)</span></label>
 <input type="text" name="Image/GIF URL" />
 <label for="text">MP4 URL <span class="small">(not required)</span></label>
