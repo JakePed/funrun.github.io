@@ -6,6 +6,7 @@ exclude: true
 
 <ul class="assets">
 {% for series in site.series %}
+ <p Supply {{ sub.supply }}</p>
 {% assign artist = site.artists | where_exp: 'item', "item.title == series.author" %}
   <li>
     <img src="{% if series.image != null and series.image != '' %}{{ series.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
