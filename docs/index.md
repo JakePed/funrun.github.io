@@ -13,8 +13,7 @@ exclude: true
       <b>{{ series.name }}</b>
     </a>
     <p class="small">Artist: {% if artist[0] %}<a href="{{ artist[0].url | relative_url }}">{{ series.author }}</a>{% else %}{{ series.author }}{% endif %}</p>
-    </a>
-    <p class="small">Card {{forloop.index}}, Supply {{ sub.supply }}</p>
+    <class="small">Card {{forloop.index}}, Supply {{ sub.supply }}>
   </li>
 {% endfor %}
 </ul>
