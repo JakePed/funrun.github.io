@@ -15,5 +15,5 @@ subs:
     
 
 # Do NOT edit beyond here
-layout: series
+layout: card
 ---
