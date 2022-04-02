@@ -5,11 +5,7 @@ image: https://7mr67ce4mnqldwgvapvqgpugfzkqy7bzw2jl4cssad36txx6zmeq.arweave.net/
 date: 01/01/1002
 description: MARLEY WAS AN AMSNFOFNFJBF FSNSFINFN
 subs: 
-  -
-    name: 
-    image: 
-    supply:
-    author:
+
     
 
 # Do NOT edit beyond here
