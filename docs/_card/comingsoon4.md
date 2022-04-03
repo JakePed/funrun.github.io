@@ -9,7 +9,7 @@ description: This slot is still available to fill. Submit your work and it could
 subs: 
   -
     name: 
-    image: 
+    image: https://bafybeifli6vl7n22folv7bhhsisd3enwv65bxxokj2lmhkr6e4vswz4vqi.ipfs.nftstorage.link/
     supply:    
     author: 
     
