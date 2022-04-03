@@ -37,7 +37,7 @@ plugins:
 markdown: kramdown
 
 collections:
-  series:
+  card:
     output: true
   artists:
     permalink: /artist/:name
