@@ -2,7 +2,7 @@
 name: FROGG
 author: Pepe Peddler
 image: https://arweave.net/5h5Ty-HMB4xCg-OdVR8ktmQdYWdREiqtVwxgWR8LROk/xhmfpf_image.png
-date: 01/01/1003
+date: 01/01/1002
 description: 269 FROGG's on Bitcoin
 subs: 
   -
