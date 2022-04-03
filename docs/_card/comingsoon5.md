@@ -2,7 +2,7 @@
 name: COMING SOON
 supply: 0
 author: To be Decided
-image: https://bafybeifli6vl7n22folv7bhhsisd3enwv65bxxokj2lmhkr6e4vswz4vqi.ipfs.nftstorage.link/
+image: https://arweave.net/c2dqjIB_WK6KvKudo26EGxY0Ei-ymscgdVXPBp3jv2E/tpl0n0_image.gif
 video: 
 date: 01/01/1005
 description: This slot is still available to fill. Submit your work and it could be yours.
