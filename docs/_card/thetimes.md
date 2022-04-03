@@ -1,5 +1,5 @@
 ---
-name: COMING SOON
+name: THETIMES
 supply: 100
 series: 1
 card: 4
