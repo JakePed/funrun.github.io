@@ -1,12 +1,12 @@
 ---
-name: FROGG
+name: RAREBTCART
 author: Pepe Peddler
 series: 1
 card: 1
-supply: 81
+supply: 2100
 image: https://arweave.net/5h5Ty-HMB4xCg-OdVR8ktmQdYWdREiqtVwxgWR8LROk/xhmfpf_image.png
 date: 01/01/1001
-description: 269 FROGG's on Bitcoin
+description: testing the site
 subs: 
   -
     name: LIME
