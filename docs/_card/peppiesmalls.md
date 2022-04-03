@@ -1,6 +1,7 @@
 ---
 name: PEPPIESMALLS
 supply: 297
+series: 1
 author: Pepe Peddler
 image: https://arweave.net/Tyywx9Z5O--YRk_eFUDVQmvjiK7yvqFBujtKvD5f220/ijh1c9_image.png
 video: 
