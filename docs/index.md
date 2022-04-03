@@ -8,7 +8,7 @@ exclude: true
 {% for card in site.card %}
 {% assign artist = site.artists | where_exp: 'item', "item.title == card.author" %}
   <li>
-    <img src="{% if card.image != null and card.image != '' %}{{ card.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
+    <img src="{% if card.image != null and card.image != '' %}{{ card.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %} class="responsive">
     <a href="card/{{ card.name | downcase }}">
       <p class="small">Series {{ card.series }}, Card {{card.card}}<br> Supply {{ card.supply }}</p> 
          <b>{{ card.name }}</b>
