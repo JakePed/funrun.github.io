@@ -1,7 +1,7 @@
 ---
-name: COMING SOON
-supply: 0
-author: To be Decided
+name: BETAVERSE
+supply: 10
+author: test
 image: https://arweave.net/c2dqjIB_WK6KvKudo26EGxY0Ei-ymscgdVXPBp3jv2E/tpl0n0_image.gif
 video: 
 date: 01/01/1003
