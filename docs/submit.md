@@ -32,7 +32,7 @@ Physical Art:
 *Cards must NOT be distributed before they are confirmed and live of the website. Any distribution prior to this will result in the work not being added to the collection.
 
 <form
-    action="https://usebasin.com/f/1944773b2de6"
+    action="https://usebasin.com/f/17f8ff352369"
     method="POST"
     enctype="multipart/form-data"
     id="form"
@@ -60,7 +60,7 @@ var formButton = document.getElementById("form-button");
 form.onsubmit = function(event) {
   event.preventDefault();
 
-  if (confirm("Please make sure your submission is correct and confirm that your tokens are minted on the blockchain!") == true) {
+  if (confirm("Please make sure your submission information is correct") == true) {
     formMessage.innerHTML = "Sending...";
     formMessage.disabled = true;
     var formData = new FormData(form);
