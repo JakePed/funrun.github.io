@@ -27,6 +27,7 @@ layout: home
   <div>
     <h2>{{ page.name }}</h2>
     <p class="author">by {% if artist[0] %}<a href="{{ artist[0].url | relative_url }}"><b>{{ page.author }}</b></a>{% else %}<b>{{ page.author }}</b>{% endif %}</p>
+  <a href="card/{{ card.name | downcase }}">
     <p class="small">Series {{ card.series }}, Card {{card.card}}, Supply {{ card.supply }}</p>
     <p class="lead">{{ page.description }}</p>
     <p class="small"><a href="{{ xchain }}/{{ page.name }}" target="_blank">VIEW ON XCHAIN</a></p>
