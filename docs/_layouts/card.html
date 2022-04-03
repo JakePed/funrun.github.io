@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 {% assign xchain = "https://xchain.io/asset" %}
 {% assign video_ext = page.video | split: '.' | last %}
 {% assign artist = site.artists | where_exp: 'item', "item.title == page.author" %}
@@ -21,7 +21,7 @@ layout: home
       <source src="{{ page.video }}" {% if video_type %}type="video/{{ video_type }}"{% endif %}>
     </video>
   {% else %}
-    <img src="{% if page.image != null and page.image != '' %}{{ page.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %} width="560" height="560">
+    <img src="{% if page.image != null and page.image != '' %}{{ page.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %} style="width:100%;">
   {% endif %}
   </div>
   <div>
