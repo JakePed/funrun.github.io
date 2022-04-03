@@ -4,27 +4,32 @@ title: Submit
 permalink: /submit/
 ---
 
-Please Read Submission guidelines before submitting
+PLEASE READ CAREFULLY
 
-Art to be submitted must be a ratio of 2.5 x 3.5 (ex, 400x560), or 1:1 (square)
+Canvas & File Sizes:
+- It's your canvas, so it can be any size. (2.5 x 3.5 & 1:1 are most common ratios)
+- No limit - All images on the site are loaded via url.
 
-Images on the site are loaded via the hosted url, so we recommend keeping file sizes down as much as possible to speed up loading times. 
+Supply & Submission:
+- Min Supply of 21
+- Issuance must be LOCKED
+- Set asset description to rarebtc.art/xchain/(ASSETNAME).json
+- No websites or QR codes
 
-Issuance must be LOCKED using the lock token 
-No divisible assets.
+Guidelines:
+- NSFW is fine, if done in an artistic manner with explanation/description included with the asset.
+- Burning supplies is fine, we just ask for no burning lower than 21 to respect the collection community and other artists
 
-NSFW is fine, when done in an artistic manner with explanation/description included with the asset.
+Required to submit:
+- It's free.
+- No token burn required, instead all successfull submissions are required to donate 1 card, regraless of supply (this will also prevent any digital only assests being burned to 1). 
+In return you will recieve the Series 1 Card 1, that will only be obtainable and distributed to artists.
 
-Minimum token supply is 21, (No Burning lower than 21 to respect the other artists and collectors) 
-In the event this happens, the artists work will have all links removed 
+Physical Art:
+- If you want to make a Physical Piece, it can be issued as a 1 of 1 with official copies or "prints" being issued as subassests Please contact us at support@rarebtc.art
 
-Physical Art should be issued as a 1 of 1 with digital extras or prints being issued as subassests (please contact @PepePeddler directly to arange this).
 
-No websites or QR codes
-
-Cards must not be distributed before they are confirmed and live of the website. Any distribution prior will result in the work not being listed.
-
-*Note: Please make sure your assests are minted before making a submission!*{: .small}
+*Cards must NOT be distributed before they are confirmed and live of the website. Any distribution prior to this will result in the work not being added to the collection.
 
 <form
     action="https://usebasin.com/f/1944773b2de6"
