@@ -32,10 +32,10 @@ Physical Art:
 *Cards must NOT be distributed before they are confirmed and live of the website. Any distribution prior to this will result in the work not being added to the collection.
 
 <form
-    action="https://usebasin.com/f/17f8ff352369"
-    method="POST"
-    enctype="multipart/form-data"
-    id="form"
+  action="https://usebasin.com/f/17f8ff352369"
+  method="POST"
+  enctype="multipart/form-data"
+  id="submisions"
 >
 <label for="email">Email <span class="small">(required)</span></label>
 <input type="email" name="email" placeholder="john@doe.com" required />
@@ -54,13 +54,13 @@ Physical Art:
 </form>
 
 <script type="text/javascript">
-var form = document.getElementById("form");
+var form = document.getElementById("my-contact-form");
 var formMessage = document.getElementById("form-button");
 var formButton = document.getElementById("form-button");
 form.onsubmit = function(event) {
   event.preventDefault();
 
-  if (confirm("Please make sure your submission information is correct") == true) {
+  if (confirm("Please make sure your submission is correct") == true) {
     formMessage.innerHTML = "Sending...";
     formMessage.disabled = true;
     var formData = new FormData(form);
