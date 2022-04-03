@@ -3,7 +3,7 @@ layout: home
 title: Home
 exclude: true
 ---
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <ul class="assets">
 {% for card in site.card %}
 {% assign artist = site.artists | where_exp: 'item', "item.title == card.author" %}
