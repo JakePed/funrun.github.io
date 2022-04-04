@@ -39,11 +39,7 @@ plugins:
 markdown: kramdown
 
 collections:
-  series:
-    permalink: /series/name
-    output: true
   card:
-     permalink: /card/:name
     output: true
   artists:
     permalink: /artist/:name
