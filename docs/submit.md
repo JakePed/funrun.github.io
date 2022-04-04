@@ -7,14 +7,14 @@ permalink: /submit/
 PLEASE READ CAREFULLY
 
 Canvas & File Sizes:
-- It's your canvas, so it can be any size. (2.5 x 3.5 & 1:1 are most common ratios)
-- No limit - All images on the site are loaded via url.
+- It's your canvas, so it can be any size.
+- No limit - All images on the site are loaded via url. (10mb is on the larger side, but you can always host a smaller file for use on the site if needed)
 
 Supply & Submission:
 - Min Supply of 21
 - Issuance must be LOCKED
-- Set asset description to rarebtc.art/xchain/(ASSETNAME).json
 - No websites or QR codes
+- 1 Sumbission at a time please (its only me at the moment)
 
 Guidelines:
 - NSFW is fine, if done in an artistic manner with explanation/description included with the asset.
@@ -22,8 +22,7 @@ Guidelines:
 
 Required to submit:
 - It's free.
-- No token burn required, instead all successfull submissions are required to donate 1 card, regraless of supply (this will also prevent any digital only assests being burned to 1). 
-In return you will recieve the Series 1 Card 1, that will only be obtainable and distributed to artists.
+- No token burn required, instead all successfull submissions donate a card (this will also prevent any assests being burned to 1). Plus in return you will recieve the RAREBTCART Series 1 Card l only be obtainable and distributed to artists.
 
 Physical Art:
 - If you want to make a Physical Piece, it can be issued as a 1 of 1 with official copies or "prints" being issued as subassests Please contact us at support@rarebtc.art
