@@ -4,7 +4,7 @@ title: Home
 exclude: true
 ---
 <ul class="assets">
-{% for card in site.card %}
+{% for card in site.series-1.card %}
 {% assign artist = site.artists | where_exp: 'item', "item.title == card.author" %}
   <li>
     <img src="{% if card.image != null and card.image != '' %}{{ card.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
