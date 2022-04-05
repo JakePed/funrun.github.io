@@ -3,20 +3,20 @@ name: RAREBTCART
 author: Pepe Peddler
 series: 1
 card: 1
-supply: 2100
-image: https://arweave.net/5h5Ty-HMB4xCg-OdVR8ktmQdYWdREiqtVwxgWR8LROk/xhmfpf_image.png
+supply: 441
+image: https://bafybeihgklcsk5vax7fvf2op2dm2lohk2e3zjg7ggken73i5mebeorptyi.ipfs.nftstorage.link/
 date: 01/01/1001
 description: testing the site
 subs: 
   -
-    name: LIME
-    image: https://bafkreibg5omi3pe2wy3fejyechlee436zuc54rk2d3q2lwgzxzp7lb2l2a.ipfs.dweb.link/
-    supply: 69   
+    name: TEST
+    image: https://bafybeihgklcsk5vax7fvf2op2dm2lohk2e3zjg7ggken73i5mebeorptyi.ipfs.nftstorage.link/
+    supply: 441   
     author: Pepe Peddler
   -
-    name: BLUE
-    image: https://bafkreibulvboeel7d3c4v5cqkuxpqwhth5rkrvdkdh3chrhr5ndf37xe5e.ipfs.dweb.link/
-    supply: 69   
+    name: TESTING
+    image: https://bafybeihgklcsk5vax7fvf2op2dm2lohk2e3zjg7ggken73i5mebeorptyi.ipfs.nftstorage.link/
+    supply: 441   
     author: Pepe Peddler
     
 
