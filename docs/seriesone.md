@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Series 1
-permalink: /series-1/
+
 ---
 <ul class="assets">
 {% for card in site.card %}
