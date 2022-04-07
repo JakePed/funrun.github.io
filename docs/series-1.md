@@ -13,6 +13,7 @@ title: Series 1
       <p class="small">Series {{ cards1.series }}, Card {{cards1.card}}<br> Supply {{ cards1.supply }}</p> 
          <b>{{ cards1.name }}</b>
     </a>    
+    <p class="small">Artist: {% if artist[0] %}<a href="{{ artist[0].url | relative_url }}">{{ cards1.author }}</a>{% else %}{{ cards-1.author }}{% endif %}</p>
   </li>
 {% endfor %}
 </ul>
