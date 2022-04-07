@@ -43,6 +43,8 @@ collections:
     output: true
   card-1:
     output: true
+  card-2:
+    output: true
   artists:
     permalink: /artist/:name
     output: true
