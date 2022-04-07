@@ -9,7 +9,7 @@ title: Series 1
 {% assign artist = site.artists | where_exp: 'item', "item.title == cards-1.author" %}
   <li>
     <img src="{% if cards-1.image != null and cards-1.image != '' %}{{ cards-1.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
-    <a href="cards-1/{{ cards-1.name | downcase }}">
+    <a href="card/{{ cards-1.name | downcase }}">
       <p class="small">Series {{ cards-1.series }}, Card {{cards-1.card}}<br> Supply {{ cards-1.supply }}</p> 
          <b>{{ cards-1.name }}</b>
     </a>    
