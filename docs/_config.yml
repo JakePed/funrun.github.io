@@ -39,6 +39,8 @@ plugins:
 markdown: kramdown
 
 collections:
+  series:
+    output: true
   card:
     output: true
   artists:
