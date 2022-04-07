@@ -3,8 +3,9 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <Image alt="logo" height="42" width="140" src={{'assets/logo.png'}} < href="{{ "rarebtc.art" }}">
-    
+    <a href="site.index">
+  <img src={{'assets/logo.png'}} style=height="42" width="140">
+</a>    
     {%- if page_paths -%}
       <nav class="site-nav">     
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
