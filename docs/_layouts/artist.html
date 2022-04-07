@@ -5,7 +5,9 @@ permalink: /artists/:artist
 
 {% assign xchain = "https://xchain.io/asset" %}
 {% assign filtered_phockheads = site.card[0].subs | where: 'author', page.title %}
-{% assign filtered = site.card | where: 'author', page.title %}
+{% assign filtered = site.card-1 | where: 'author', page.title %}
+{% assign filtered = site.card-2 | where: 'author', page.title %}
+
 
 <div class="artist">
   <h2>{{page.title}}'s collection</h2>
