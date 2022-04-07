@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Series 1
-permalin: /series-1/
+permalink: /series-1/
 ---
 <img src="https://bafybeiaelbcwjlihme66n23jfbw4j2vcgmzqg6nt2oql2xd3a5mf72vpsu.ipfs.nftstorage.link/" alt="rare btc banner" max-width="100%" height="auto">
 <ul class="assets">
