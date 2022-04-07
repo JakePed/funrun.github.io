@@ -4,7 +4,7 @@ title: Series 2
 ---
 <img src="https://bafybeiaelbcwjlihme66n23jfbw4j2vcgmzqg6nt2oql2xd3a5mf72vpsu.ipfs.nftstorage.link/" alt="rare btc banner" max-width="100%" height="auto">
 <ul class="assets">
-{% for card-1 in site.card-2 %}
+{% for card-2 in site.card-2 %}
 {% assign artist = site.artists | where_exp: 'item', "item.title == card-2.author" %}
   <li>
     <img src="{% if card-2.image != null and card-2.image != '' %}{{ card-2.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
