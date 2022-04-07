@@ -41,7 +41,7 @@ markdown: kramdown
 collections:
   series:
     output: true
-  card:
+  card-1:
     output: true
   artists:
     permalink: /artist/:name
