@@ -11,7 +11,7 @@ title: Series 1
     <img src="{% if cards1.image != null and cards1.image != '' %}{{ cards1.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
     <a href="card/{{ cards1.name | downcase }}">
       <p class="small">Series {{ cards1.series }}, Card {{cards1.card}}<br> Supply {{ cards1.supply }}</p> 
-         <b>{{ cards-1.name }}</b>
+         <b>{{ cards1.name }}</b>
     </a>    
   </li>
 {% endfor %}
