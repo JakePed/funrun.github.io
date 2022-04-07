@@ -10,7 +10,6 @@ exclude: true
   <li>
     <img src="{% if series.image != null and series.image != '' %}{{ series.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
     <a href="/{{ series.name | downcase }}">
-      <p class="small">Series {{ series.series }}</p> 
          <b>{{ series.name }}</b>
     </a>    
   </li>
