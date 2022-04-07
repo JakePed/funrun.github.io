@@ -1,10 +1,11 @@
 ---
-title: Pepe Peddler
+title: Mario Dian
 # your social media username
-twitter: pepepeddler
+twitter: mariodian
+github: mariodian
 instagram: 
 # your website including http:// or https://
-www:
+www: https://mariodian.com
 
 # Do NOT edit beyond here
 layout: artist

@@ -1,8 +1,9 @@
 ---
-title: Pepe Peddler
+title: GRNQRTR
 # your social media username
-twitter: pepepeddler
+twitter: 
 instagram: 
+github:
 # your website including http:// or https://
 www:
 

@@ -1,8 +1,9 @@
 ---
-title: Pepe Peddler
+title: BRGS
 # your social media username
-twitter: pepepeddler
+twitter: 
 instagram: 
+github:
 # your website including http:// or https://
 www:
 
