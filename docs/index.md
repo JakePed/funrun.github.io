@@ -6,8 +6,9 @@ exclude: true
 <img src="https://bafybeibk4sry3qtsshilw6m5t7ri4gacjy7nxfx7mxupxh6tty5tqznr4a.ipfs.nftstorage.link/" alt="rare btc banner" max-width="100%" height="auto">
 <ul class="assets">
 {% for series in site.series %}
+
   <li>
-    <img src="{% if series.image != null and card.image != '' %}{{ series.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
+    <img src="{% if series.image != null and series.image != '' %}{{ series.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
     <a href="series/{{ series.name | downcase }}">
       <p class="small">Series {{ series.series }}</p> 
          <b>{{ series.name }}</b>
