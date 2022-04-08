@@ -2,7 +2,7 @@
 layout: home
 title: Series 1
 ---
-<img src="https://bafybeiaelbcwjlihme66n23jfbw4j2vcgmzqg6nt2oql2xd3a5mf72vpsu.ipfs.nftstorage.link/" alt="rare btc banner" max-width="100%" height="auto">
+<img src={{'assets/series-1-banner.png'}} alt="rare btc banner" max-width="100%" height="auto">
 <ul class="assets">
 {% for card-1 in site.card-1 %}
 {% assign artist = site.artists | where_exp: 'item', "item.title == card-1.author" %}
