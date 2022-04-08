@@ -3,7 +3,7 @@ layout: home
 title: Home
 exclude: true
 ---
-<img src={{'https://bafybeihpquzju6nhdktcdbje7xhzbldtqbvrpszckjmfqyf3hcvaxrmnmy.ipfs.nftstorage.link/'}} style=height="60" width="200">
+<img src="https://bafybeifmsiihs3gb5hx6vddfkgpk2wlpvuq424stzyy4ybrrod4lwb7hde.ipfs.nftstorage.link/" max-width="100%" height="auto">
 <ul class="assets">
 {% for series in site.series %}
 
