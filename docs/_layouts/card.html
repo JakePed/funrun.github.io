@@ -15,17 +15,12 @@ layout: home
 
 <div class="grail-card clearfix">
   <div>
-     <class="responsive">
-  .responsive {
-  width: 100%;
-  max-width: 400px;
-  height: auto;
   {% if page.video != null and page.video != "" %}
     <video controls="" loop="" autoplay=""{% if page.image != null and page.image != '' %} poster="{{ page.image }}"{% endif %} style="border-radius: 5px; border:0; background-color: black; box-shadow: 3px 3px 4px rgba(0,0,0,0.2);">
       <source src="{{ page.video }}" {% if video_type %}type="video/{{ video_type }}"{% endif %}>
     </video>
   {% else %}
-    <img src="{% if page.image != null and page.image != '' %}{{ page.image }}{% else %}{{'assets/placeholder.png' | relative_url}} width='100%', max-width="500", height="auto">{% endif %}">
+    <img src="{% if page.image != null and page.image != '' %}{{ page.image }}{% else %}{{'assets/placeholder.png' | relative_url}} width="100%", max-width="500", height="auto"> <class="responsive">{% endif %}">
   {% endif %}
   </div>
   <div>
