@@ -13,6 +13,7 @@ subs:
     image: https://bafybeihgklcsk5vax7fvf2op2dm2lohk2e3zjg7ggken73i5mebeorptyi.ipfs.nftstorage.link/
     supply: 441   
     author: Pepe Peddler
+    author: brgs
   -
     name: TESTING
     image: https://bafybeihgklcsk5vax7fvf2op2dm2lohk2e3zjg7ggken73i5mebeorptyi.ipfs.nftstorage.link/
