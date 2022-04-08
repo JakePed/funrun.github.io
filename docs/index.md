@@ -3,7 +3,9 @@ layout: home
 title: Home
 exclude: true
 ---
-<img src={{"assets/rarebtc-banner.gif"}} alt="rare btc banner" max-width="100%" height="auto">
+ <a href="/series-1">
+  <img src={{'assets/rarebtc-banner.gif'}} style=height="60" width="200">
+</a>    
 <ul class="assets">
 {% for series in site.series %}
 
