@@ -41,28 +41,7 @@ layout: home
 {% for sub in page.subs %}
   <li>
     <img src="{{ sub.image }}">
-    <div class="container" 
-             style="text-align: center;
-                    margin-top: 5em;">
-         <!-- Image to be enlarged and onclick() 
-            function call
-      Passing the reference to this img
-             as a parameter    -->
-            <img src="{{ sub.image }}"
-                 onclick="enlargeImg(this)" />
-        </div>
-  
-        <!-- script to set display property -->
-        <script>
-            // Function to increase image size
-            function enlargeImg(img) {
-                img.style.width = "100%";
-                img.style.height = "auto";
-                img.style.transition = "width 0.5s ease"
-                  "transform 0.25s ease";
-            }
-        </script>
- >
+   >
     <a href="{{ xchain }}/{{ page.name }}.{{ sub.name }}" target="_blank" class="overflow-ellipsis">
       <b>{{ sub.name }}</b>
     </a>
