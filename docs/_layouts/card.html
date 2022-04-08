@@ -36,7 +36,12 @@ layout: home
 </div>
 
 <h3>Subassets</h3>
- <!-- Image to be enlarged and onclick() 
+ 
+<ul class="sub-assets">
+{% for sub in page.subs %}
+  <li>
+    <img src="{{ sub.image }}">
+         <!-- Image to be enlarged and onclick() 
             function call
       Passing the reference to this img
              as a parameter    -->
@@ -54,12 +59,7 @@ layout: home
                   "transform 0.25s ease";
             }
         </script>
-    </body>
-</html>
-<ul class="sub-assets">
-{% for sub in page.subs %}
-  <li>
-    <img src="{{ sub.image }}">
+ >
     <a href="{{ xchain }}/{{ page.name }}.{{ sub.name }}" target="_blank" class="overflow-ellipsis">
       <b>{{ sub.name }}</b>
     </a>
