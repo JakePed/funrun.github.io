@@ -36,7 +36,26 @@ layout: home
 </div>
 
 <h3>Subassets</h3>
-
+ <!-- Image to be enlarged and onclick() 
+            function call
+      Passing the reference to this img
+             as a parameter    -->
+            <img src=
+"sub.image"
+                 onclick="enlargeImg(this)" />
+        </div>
+  
+        <!-- script to set display property -->
+        <script>
+            // Function to increase image size
+            function enlargeImg(img) {
+                img.style.transform = "scale(1.5)";
+                img.style.transition =
+                  "transform 0.25s ease";
+            }
+        </script>
+    </body>
+</html>
 <ul class="sub-assets">
 {% for sub in page.subs %}
   <li>
