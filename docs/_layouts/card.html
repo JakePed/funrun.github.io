@@ -13,7 +13,11 @@ layout: home
   {% assign video_type = 'webm' %}
 {% endif %}
 
-<div class="grail-card clearfix">
+<div class="grail-card clearfix"> class="responsive">
+  .responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
   <div>
   {% if page.video != null and page.video != "" %}
     <video controls="" loop="" autoplay=""{% if page.image != null and page.image != '' %} poster="{{ page.image }}"{% endif %} style="border-radius: 5px; border:0; background-color: black; box-shadow: 3px 3px 4px rgba(0,0,0,0.2);">
