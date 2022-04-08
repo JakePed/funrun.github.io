@@ -45,6 +45,7 @@ layout: home
       <b>{{ sub.name }}</b>
     </a>
     <p class="small">Card {{forloop.index}}, Supply {{ sub.supply }}</p>
+    <p class="sub.author">by {% if artist[0] %}<a href="/artist/{{ sub.author }}"><b>{{ sub.author }}</b></a>{% else %}<b>{{ sub.author }}</b>{% endif %}</p>
   </li>
 {% endfor %}
 </ul>
