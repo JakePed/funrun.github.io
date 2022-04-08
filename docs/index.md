@@ -3,9 +3,7 @@ layout: home
 title: Home
 exclude: true
 ---
- <a href="/series-1">
-  <img src={{'assets/rarebtc-banner.gif'}} style=height="60" width="200">
-</a>    
+<img src={{'https://bafybeihpquzju6nhdktcdbje7xhzbldtqbvrpszckjmfqyf3hcvaxrmnmy.ipfs.nftstorage.link/'}} style=height="60" width="200">
 <ul class="assets">
 {% for series in site.series %}
 
