@@ -20,12 +20,7 @@ layout: home
       <source src="{{ page.video }}" {% if video_type %}type="video/{{ video_type }}"{% endif %}>
     </video>
   {% else %}
-    <img src="{% if page.image != null and page.image != '' %}{{ page.image }}{% else %}{{'assets/placeholder.png' | relative_url}} .responsive {
-  max-width: 400px;
-  width: 100%;          
-  height: auto;
-}
-              {% endif %}">
+    <img src="{% if page.image != null and page.image != '' %}{{ page.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
   {% endif %}
   </div>
   <div>
