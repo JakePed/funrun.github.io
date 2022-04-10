@@ -7,28 +7,26 @@ permalink: /submit/
 PLEASE READ CAREFULLY
 
 Canvas & File Sizes:
-- It's your canvas, so it can be any size.
+- Image on the assest must be a (2.5 : 3.5) ratio (this is the stardard 400 x 560, but scaled to any size to preserve details)
 - No limit - All images on the site are loaded via url. (10mb is on the larger side, but you can always host a smaller file for use on the site if needed)
 
 Supply & Submission:
 - Min Supply of 21
 - Issuance must be LOCKED
 - No websites or QR codes
-- 1 Sumbission at a time please (its only me at the moment)
 
 Guidelines:
 - NSFW is fine, if done in an artistic manner with explanation/description included with the asset.
-- Burning supplies is fine, we just ask for no burning lower than 21 to respect the collection community and other artists
+- Burning supplies is fine, we just ask for no burning lower than 21 to respect the collection community and other artists.
 
 Required to submit:
-- It's free.
-- No token burn required, instead all successfull submissions donate a card (this will also prevent any assests being burned to 1). Plus in return you will recieve the RAREBTCART Series 1 Card l only be obtainable and distributed to artists.
+- All new artists are required to burn 2100 RAREBTCCARD for each submission to the directory.
 
 Physical Art:
-- If you want to make a Physical Piece, it can be issued as a 1 of 1 with official copies or "prints" being issued as subassests Please contact us at support@rarebtc.art
+- If you want to make a Physical Piece, it can be issued as a 1 of 1 with official copies or "prints" being issued as subassests Please contact support@rarebtc.art to arange adding official banner to the subassest.
 
 
-*Cards must NOT be distributed before they are confirmed and live of the website. Any distribution prior to this will result in the work not being added to the collection.
+*Cards must NOT be distributed before they are confirmed and live on the website. Any distribution prior to this will result in the work not being added to the collection.
 
 <form
   action="https://usebasin.com/f/17f8ff352369"
