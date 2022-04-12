@@ -25,7 +25,7 @@ subs:
     author: pepe-peddler
   -
     name: HALFINNEY
-    image: https://bafkreicrdz73eou7lghyas7tnhldukknbvg6oqry35d5sjsbr3oai6vluu.ipfs.nftstorage.link/
+    image: https://bafkreietj2ebfl52suxkptfq3ozndx6lnfhvhdh42yqbikyogdiglgwmay.ipfs.nftstorage.link/
     supply: 441   
     author: pepe-peddler
     
