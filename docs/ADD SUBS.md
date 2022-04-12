@@ -6,22 +6,22 @@ permalink: /add-subs/
 
 PLEASE READ CAREFULLY
 
-Subassets have no limits and do not require verification, this is your opportunity to use them as you please.
+Use your subassests to expand your work, create a sub collection, a multi panel piece, Allow other artist to create iterations or make your main assest a grail card for art drops. It's completely up to you how you use the subassests associated to your work.
 
-Subassests must be added manually to the site, so the required information is nessesary when requested addition to the website
+
+Subassests are added manually to the site, so please allow some time for updates to show.
 
 - Sub asset name (ASSET.SUBNAME)
 - Image link
 - Supply
-- Artist (if a collabe or 
-
+- Artist (if another artist) 
 
 
 <form
-  action="https://usebasin.com/f/17f8ff352369"
+  action="https://usebasin.com/f/1420aab1fcd8"
   method="POST"
   enctype="multipart/form-data"
-  id="submisions"
+  id="add-subs"
 >
 <label for="email">Email <span class="small">(required)</span></label>
 <input type="email" name="email" placeholder="john@doe.com" required />
@@ -31,8 +31,6 @@ Subassests must be added manually to the site, so the required information is ne
 <input type="text" name="Asset Link" />
 <label for="text">Image/GIF URL <span class="small">(required)</span></label>
 <input type="text" name="Image/GIF URL" />
-<label for="text">MP4 URL <span class="small">(not required)</span></label>
-<input type="text" name="MP4 URL" />
 <label for="text">Supply <span class="small">(required)</span></label>
 <input type="text" name="Token Supply" />
 <button type="submit" id="form-button">Send</button>
