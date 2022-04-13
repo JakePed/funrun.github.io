@@ -3,7 +3,7 @@ layout: home
 title: Home
 exclude: true
 ---
-<img src="https://bafybeifmsiihs3gb5hx6vddfkgpk2wlpvuq424stzyy4ybrrod4lwb7hde.ipfs.nftstorage.link/" max-width="100%" height="auto">
+<img src="https://bafybeih3cucdw7t67pvn2ijfsozsaa4hnpdp4gy42tzjzuqlracx26z2vq.ipfs.dweb.link/" max-width="100%" height="auto">
 
 <b> Currently cards will drop in batches of 7 on a weekly basis <b>
 
