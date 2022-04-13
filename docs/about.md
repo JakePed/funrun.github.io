@@ -6,9 +6,15 @@ permalink: /about/
 
 RareBTC.art is a community art collection celebrating bitcoin, the community, and the events as they happen.
 
-The artwork is only limited by your interpritation of what represents bitcoin and the community.
+Opening up the artists ability to create larger, more indepth artworks, only limited by thier interpritation of what represents bitcoin.
 
-We encourage you to use both btc dispenser and the xcp counterparty dex to sell and trade your artwork
+Giving you the ability to create and display subassests as part of, or an extention of, your work to open up the possiblitlies.
+
+Each creation 
+
+
+
+
 
 
 Submission are now open [submit]({{ 'submit' | relative_url}}) here.
