@@ -244,7 +244,8 @@ button {
   ul {
     &.assets, &.sub-assets {
       li {
-        width: auto;
+        max-width: 560;
+        height: auto;
       }
     }
     &.sub-assets {
