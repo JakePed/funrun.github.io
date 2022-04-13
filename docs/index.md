@@ -4,8 +4,10 @@ title: Home
 exclude: true
 ---
 <img src="https://bafybeifmsiihs3gb5hx6vddfkgpk2wlpvuq424stzyy4ybrrod4lwb7hde.ipfs.dweb.link/" max-width="100%" height="auto">
-
-<b> Currently cards will drop in batches of 7 on a weekly basis <b>
+<style>
+h1 {text-align: center;}
+  </style>
+  <h1>A creative collection cellebrating bitcoin</h1>
 
 <ul class="assets">
 {% for series in site.series %}
