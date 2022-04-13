@@ -7,7 +7,7 @@ exclude: true
 <style>
 h1 {text-align: center;}
   </style>
-  <h1>A creative collection cellebrating bitcoin</h1>
+  <h1>A creative collection celebrating Bitcoin</h1>
 
 <ul class="assets">
 {% for series in site.series %}
