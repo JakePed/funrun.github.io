@@ -36,7 +36,7 @@ ul {
         max-width: 100%;
         width: auto;
         display: block;
-        text-align: left;
+        text-align: justify;
         margin-right: 0;
       }
       &.header {
@@ -51,7 +51,6 @@ ul {
       &.description {
         a {
           display: inline;
-          text-align: justify;
         }
       }
     }
