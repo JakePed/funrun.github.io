@@ -4,22 +4,16 @@ title: About
 permalink: /about/
 ---
 
-RareBTC.art is a community art collection celebrating bitcoin, the community, and the events as they happen.
+RareBTC.art is a community art collection celebrating everything to do with bitcoin
 
-Opening up the artists ability to create larger, more indepth artworks, only limited by thier interpritation of what represents bitcoin.
+A collection of more indepth pieces, only limited by the connection of what bitcoin represents to the creator.
 
-Giving you the ability to create and display subassests as part of, or an extention of, your work to open up the possiblitlies.
+Giving you the ability to create and display subassests as part of, or an extention of, your work. Opening up the possiblitlies of what you can create. It's your chance to get creative.
 
-Each creation 
-
-
-
-
-
+If you want to know more, or get some ideas on how and what to make, jump in the telegram where a great community can help you out.
+Join us on Telegram Here: [https://t.me/RareBTC.art](https://t.me/RareBTCart)
 
 Submission are now open [submit]({{ 'submit' | relative_url}}) here.
 
-
-Join us on Telegram: [https://t.me/RareBTC.art](https://t.me/RareBTCart)
 
 Follow us on Twitter: [https://twitter.com/rarebtcart](https://twitter.com/rarebtcart)
