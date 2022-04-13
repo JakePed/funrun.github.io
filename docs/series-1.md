@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Series 1
+exclude: true
 ---
 <img src="https://bafybeihpquzju6nhdktcdbje7xhzbldtqbvrpszckjmfqyf3hcvaxrmnmy.ipfs.nftstorage.link/" max-width="100%" height="auto">
 <ul class="assets">
