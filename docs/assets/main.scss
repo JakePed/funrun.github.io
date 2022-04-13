@@ -26,7 +26,7 @@ ul {
     margin: 0; 
 
     li {
-      max-width: 100%;
+      max-width: 184px;
       margin-right: 16px;
       margin-bottom: 24px;
       display: inline-block;
@@ -244,7 +244,7 @@ button {
   ul {
     &.assets, &.sub-assets {
       li {
-        width: 100%;
+        width: auto;
       }
     }
     &.sub-assets {
