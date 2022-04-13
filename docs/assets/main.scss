@@ -120,6 +120,7 @@ ul {
 .grail-card {
   > div:first-of-type {
     float: left;
+    max-width: 400px;
   }
   div + div {
     overflow: hidden;
@@ -244,8 +245,8 @@ button {
   ul {
     &.assets, &.sub-assets {
       li {
-        width: auto;
-      }
+        max-width: auto;
+              }
     }
     &.sub-assets {
       li {
