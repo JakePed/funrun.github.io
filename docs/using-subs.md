@@ -9,7 +9,7 @@ You can use subassets in any way you like, and we love to see new and creative w
 
 If you want some inpiration here are a few ideas and ways others are using them:
 
-- Multi panel pieces, 1 piece that is broken in to multiple blocks - <a href = "link.com">card-1.btcblocks</a>
+- Multi panel pieces, 1 piece that is broken in to multiple blocks - <a href = "card-1.btcblocks">Example</a>
 
 - Grail Card - The main asset holders will recieve either all subs, or all future subs from time of purchase  - <a href = "link.com">Example</a>
 
