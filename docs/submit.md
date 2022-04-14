@@ -25,6 +25,7 @@ Required to submit:
 Physical Art:
 - If you want to make a Physical Piece, it can be issued as a 1 of 1 with official copies or "prints" being issued as subassests Please contact support@rarebtc.art to arange adding official banner to the subassest.
 
+<img src="https://bafybeid56ngwqopaj2afzil5ohdqligfcsz65rqccmxocidrfkzcw44tsy.ipfs.nftstorage.link/" max-width="100%" height="auto">
 
 *Cards must NOT be distributed before they are confirmed and live on the website. Any distribution prior to this will result in the work not being added to the collection.
 
