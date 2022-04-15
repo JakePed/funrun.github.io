@@ -2,7 +2,7 @@
 name: THETIMESNEWS
 supply: 2009
 series: 1
-card: 3
+block: 3
 author: Community
 image: https://bafybeia6codmjadkqtfhm442jlxm4ktzjhkubqpfbvdsvde4isucbll7qe.ipfs.nftstorage.link/
 video: 

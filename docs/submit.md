@@ -20,11 +20,11 @@ Guidelines:
 - Burnt supplies is fine, we just ask for no burning lower than 21 to respect the collection community and other artists.
 
 Required to submit:
-- Submissions are free, all we ask is that you contribute to the community evolving art piece: THETIMESNEWS
+- For the moment submissions are free, all we ask is that you contribute (add value) to the community evolving art piece: THETIMESNEWS
 
 <img src="https://bafybeid56ngwqopaj2afzil5ohdqligfcsz65rqccmxocidrfkzcw44tsy.ipfs.nftstorage.link/" max-width="100%" height="auto">
 
-*Cards must NOT be distributed before they are confirmed and live on the website. Any distribution prior to this will result in the work not being added to the collection.
+*Blocks must NOT be distributed before they are confirmed and live on the website. Any distribution prior to this will result in the work not being added to the collection.
 
 <form
   action="https://usebasin.com/f/17f8ff352369"

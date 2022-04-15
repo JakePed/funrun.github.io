@@ -2,7 +2,7 @@
 name: BTCBLOCKS
 author: Pepe Peddler
 series: 1
-card: 5
+block: 5
 supply: 105
 image: https://bafkreidhuofuiwc6i6gsals5aqf2vjctztpisiwzlm4d7czsdjksoltayi.ipfs.nftstorage.link/
 date: 01/01/1005

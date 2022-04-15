@@ -6,7 +6,7 @@ permalink: /add-subs/
 
 PLEASE READ CAREFULLY
 
-Use your subassests to expand your work, create a sub collection, a multi panel piece, Allow other artist to create iterations or make your main assest a grail card for art drops. It's completely up to you how you use the subassests associated to your work.
+Use your subassests to expand your work, create a sub collection, a multi panel piece, Allow other artist to create iterations or make your main assest a grail block for art drops. It's completely up to you how you use the subassests associated to your work.
 
 
 Subassests are added manually to the site, so please allow some time for updates to show.

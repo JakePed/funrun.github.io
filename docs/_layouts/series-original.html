@@ -27,7 +27,7 @@ layout: home
     <a href="{{ xchain }}//{{ page.name }}.{{ sub.name }}" target="_blank" class="overflow-ellipsis">
       <b>{{ page.name}}.{{ sub.name }}</b>
     </a>
-    <p class="small">Card {{forloop.index}}, Supply {{ sub.supply }}</p>
+    <p class="small">Block {{forloop.index}}, Supply {{ sub.supply }}</p>
   </li>
 {% endfor %}
 </ul>
@@ -43,7 +43,7 @@ layout: home
       <b>{{ sub.name }}</b>
     </a>
     <p class="small">By {% if artist[0] %}<a href="{{ artist[0].url | relative_url }}">{{ sub.author }}</a>{% else %}{{ sub.author }}{% endif %}</p>
-    <p class="small">Card {{forloop.index}}, Supply {{ sub.supply }}</p>
+    <p class="small">Block {{forloop.index}}, Supply {{ sub.supply }}</p>
   </li>
 {% endfor %}
 </ul>
