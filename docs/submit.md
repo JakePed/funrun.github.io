@@ -7,20 +7,23 @@ permalink: /submit/
 PLEASE READ CAREFULLY
 
 Canvas & File Sizes:
-- Image on the assest must be a (2.5 : 3.5) ratio (this is the stardard 400 x 560, but scaled to any size to preserve details)
-- No limit - All images on the site are loaded via url. (10mb is on the larger side, but you can always host a smaller file for use on the site if needed)
+- It's your canvas, no more trimming!
+- If you can keep file sizes for the site to a minimum whilst preserving the details. 
 
 Supply & Submission:
 - Min Supply of 21
 - Issuance must be LOCKED
 - No websites or QR codes
+- Description of the art or creation is required
 
 Guidelines:
-- NSFW is fine, if done in an artistic manner with explanation/description included with the asset.
+- NSFW is fine, if done in an artistic manner with a good explanation/description included with the asset.
 - Burning supplies is fine, we just ask for no burning lower than 21 to respect the collection community and other artists.
 
 Required to submit:
-- All new artists are required to burn 2100 RAREBTCCARD for each submission to the directory.
+- Burn a 1 RAREBTCART token upon successful submission
+- or swap 1 of your cards for a RAREBTCART token
+- that means all your 
 
 Physical Art:
 - If you want to make a Physical Piece, it can be issued as a 1 of 1 with official copies or "prints" being issued as subassests Please contact support@rarebtc.art to arange adding official banner to the subassest.
