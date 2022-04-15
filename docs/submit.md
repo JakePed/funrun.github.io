@@ -4,29 +4,23 @@ title: Submit
 permalink: /submit/
 ---
 
-PLEASE READ CAREFULLY
+PLEASE READ CAREFULLY BEFORE SUBMITTING:
 
 Canvas & File Sizes:
 - It's your canvas, no more trimming!
-- If you can keep file sizes for the site to a minimum whilst preserving the details. 
+- If you can keep file sizes for the site to a minimum whilst preserving the details
 
 Supply & Submission:
 - Min Supply of 21
 - Issuance must be LOCKED
-- No websites or QR codes
-- Description of the art or creation is required
+- No direct website links. QR codes are fine to incorperate, if it is part of the piece.
 
 Guidelines:
-- NSFW is fine, if done in an artistic manner with a good explanation/description included with the asset.
-- Burning supplies is fine, we just ask for no burning lower than 21 to respect the collection community and other artists.
+- NSFW is fine, if done in an artistic manner with a good explanation/description included.
+- Burnt supplies is fine, we just ask for no burning lower than 21 to respect the collection community and other artists.
 
 Required to submit:
-- Burn a 1 RAREBTCART token upon successful submission
-- or swap 1 of your cards for a RAREBTCART token
-- that means all your 
-
-Physical Art:
-- If you want to make a Physical Piece, it can be issued as a 1 of 1 with official copies or "prints" being issued as subassests Please contact support@rarebtc.art to arange adding official banner to the subassest.
+- Submissions are free, all we ask is that you contribute to the community evolving art piece: THETIMESNEWS
 
 <img src="https://bafybeid56ngwqopaj2afzil5ohdqligfcsz65rqccmxocidrfkzcw44tsy.ipfs.nftstorage.link/" max-width="100%" height="auto">
 
