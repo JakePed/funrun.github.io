@@ -22,6 +22,7 @@ Guidelines:
 Required to submit:
 - For the moment submissions are free, all we ask is that you contribute (add value) to the community evolving art piece: THETIMESNEWS
 
+
 <img src="https://bafybeid56ngwqopaj2afzil5ohdqligfcsz65rqccmxocidrfkzcw44tsy.ipfs.nftstorage.link/" max-width="100%" height="auto">
 
 *Blocks must NOT be distributed before they are confirmed and live on the website. Any distribution prior to this will result in the work not being added to the collection.
@@ -44,7 +45,9 @@ Required to submit:
 <input type="text" name="MP4 URL" />
 <label for="text">Supply <span class="small">(required)</span></label>
 <input type="text" name="Token Supply" />
-<button type="submit" id="form-button">Send</button>
+<label for="message">Message</label>
+    <textarea name="message"></textarea>
+<button type="submit" id="form-button">Submit</button>
 <div id="form-message"></div>
 </form>
 
