@@ -11,7 +11,7 @@ subs:
   -
     name: HASH
     image: 
-    supply: ?  
+    supply: 0  
     author: Satoshi Nakamoto
     
 
