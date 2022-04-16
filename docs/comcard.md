@@ -32,6 +32,10 @@ How it works:
 
 Submit your iteration here:
 
+*0.5 XCP is required for the cost creation of the subassest and to help with the fees associated with dividends and transfer of tokens and ownership.
+
+Send XCP to - 1GofUv9J8Rv5KJKw1An4VpqDrF7Hh7EdGW
+
 <form
     action="https://usebasin.com/f/83cf165714bd"
     method="POST"
@@ -44,8 +48,10 @@ Submit your iteration here:
 <input type="text" name="Artist Name" />
 <label for="text">Asset Name <span class="small">(required)</span></label>
 <input type="text" name="Asset Name" />
-<label for="file-upload">File Upload<span class="small">(required)</span></label>
-<input type="file" name="file-upload" />
+<label for="text">Image/GIF URL <span class="small">(required)</span></label>
+<input type="text" name="Asset Name" />
+<label for="text">XCP Transaction ID <span class="small">(required)</span></label>
+<input type="text" name="XCP Transaction ID" />
 <button type="submit" id="form-button">Submit</button>
 <div id="form-message"></div>
 </form>
