@@ -20,8 +20,8 @@ Guidelines:
 - Burnt supplies is fine, we just ask for no burning lower than 21 to respect the collection community and other artists.
 
 Required to submit:
-- For the moment submissions are free, all we ask is that you contribute (add value) to the community evolving art piece: THETIMESNEWS - See More Here
-
+- Currently there is no token burn required
+- Instead artist are required to contribute/participate in the community evolving art piece: THETIMESNEWS - See More Here
 
 <img src="https://bafybeid56ngwqopaj2afzil5ohdqligfcsz65rqccmxocidrfkzcw44tsy.ipfs.nftstorage.link/" max-width="100%" height="auto">
 
