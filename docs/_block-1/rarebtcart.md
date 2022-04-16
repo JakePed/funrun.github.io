@@ -1,6 +1,6 @@
 ---
 name: RAREBTCART
-author: Satoshi Nakamoto
+author: Pepe Peddler
 series: 1
 card: 2
 supply: 21,000,000
