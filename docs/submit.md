@@ -20,7 +20,7 @@ Guidelines:
 - Burnt supplies is fine, we just ask for no burning lower than 21 to respect the collection community and other artists.
 
 Required to submit:
-- For the moment submissions are free, all we ask is that you contribute (add value) to the community evolving art piece: THETIMESNEWS
+- For the moment submissions are free, all we ask is that you contribute (add value) to the community evolving art piece: THETIMESNEWS - See More Here
 
 
 <img src="https://bafybeid56ngwqopaj2afzil5ohdqligfcsz65rqccmxocidrfkzcw44tsy.ipfs.nftstorage.link/" max-width="100%" height="auto">
@@ -45,7 +45,7 @@ Required to submit:
 <input type="text" name="MP4 URL" />
 <label for="text">Supply <span class="small">(required)</span></label>
 <input type="text" name="Token Supply" />
-<label for="message">Message</label>
+<label for="message">Description</label>
     <textarea name="message"></textarea>
 <button type="submit" id="form-button">Submit</button>
 <div id="form-message"></div>
