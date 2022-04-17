@@ -45,7 +45,7 @@ Required to submit:
 <input type="text" name="MP4 URL" />
 <label for="text">Supply <span class="small">(required)</span></label>
 <input type="text" name="Token Supply" />
-<label for="message">Description</label>
+<label for="message">Description<span class="small">(required)</span></label>
     <textarea name="message"></textarea>
 <button type="submit" id="form-button">Submit</button>
 <div id="form-message"></div>
