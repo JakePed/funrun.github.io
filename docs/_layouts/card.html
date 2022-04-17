@@ -45,13 +45,14 @@ layout: home
 
 <ul class="sub-assets">
 {% for sub in page.subs %}
+{% assign artist = site.artists | where_exp: 'item', "item.title == sub.author" %}
   <li>
     <img src="{{ sub.image }}">
     <a href="{{ xchain }}/{{ page.name }}.{{ sub.name }}" target="_blank" class="overflow-ellipsis">
       <b>{{ sub.name }}</b>
     </a>
     <p class="small">Block {{forloop.index}}, Supply {{ sub.supply }}</p>
- <p class="small">By {% if artist %}<a href="{{ artist.url | sub.author }}">{{ sub.author }}</a>{% else %}{{ sub.author }}{% endif %}</p>
+ <p class="small">By {% if artist[0] %}<a href="{{ artist[0].url | relative_url }}">{{ sub.author }}</a>{% else %}{{ sub.author }}{% endif %}</p>
   </li>
 {% endfor %}
 </ul>
