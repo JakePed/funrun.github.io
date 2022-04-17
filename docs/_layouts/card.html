@@ -3,7 +3,7 @@ layout: home
 ---
 {% assign xchain = "https://xchain.io/asset" %}
 {% assign video_ext = page.video | split: '.' | last %}
-{% assign artist = site.artists | where_exp: 'item', "item.title == page.author", "item.title == sub.author" %} %}
+{% assign artist = site.artists | where_exp: 'item', "item.title == page.author" %}
 
 
 {% if video_ext == 'mp4' or video_ext == 'm4v' %}
