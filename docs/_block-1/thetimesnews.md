@@ -15,8 +15,8 @@ subs:
     supply: 2009
     author: The Times News
   -
-    name: EXPLICITCONTENT
-    image: https://bafybeifgwlqrwcocjif4pj2j325xse6y6txmbrfdc3x2tvwj3oncvpaha4.ipfs.nftstorage.link/
+    name: BTCBLOCKS
+    image: https://bafkreibuehjwsmhuxtlpxn6r25srkpoigaxbd62vi2qm2wamlr75ru2ufm.ipfs.nftstorage.link/
     supply: 2009
     author: Pepe Peddler
     
