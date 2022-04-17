@@ -3,7 +3,7 @@ layout: home
 ---
 {% assign xchain = "https://xchain.io/asset" %}
 {% assign video_ext = page.video | split: '.' | last %}
-{% assign artist = site.artists | where_exp: 'item', "item.title == page.author" %}
+{% assign artist = site.artists | where_exp: 'item', "item.title == page.author", "item.title == sub.author" %} %}
 
 
 {% if video_ext == 'mp4' or video_ext == 'm4v' %}
@@ -42,7 +42,7 @@ layout: home
 </p>
 
 <h3>Included in this Block</h3>
- {% assign artist = site.artists | where_exp: 'item', "item.title == sub.author" %}
+
 <ul class="sub-assets">
 {% for sub in page.subs %}
   <li>
