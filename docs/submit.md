@@ -8,24 +8,23 @@ PLEASE READ CAREFULLY BEFORE SUBMITTING:
 
 Canvas & File Sizes:
 - It's your canvas, no more trimming!
-- If you can keep file sizes for the site to a minimum whilst preserving the details
+- If you can keep file sizes for the site to a minimum whilst preserving the details 10mb is fine.
 
 Supply & Submission:
 - Min Supply of 21
 - Issuance must be LOCKED
-- No direct website links. QR codes are fine to incorperate, if it is part of the piece.
+- No direct website links
 
 Guidelines:
 - NSFW is fine, if done in an artistic manner with a good explanation/description included.
-- Burnt supplies is fine, we just ask for no burning lower than 21 to respect the collection community and other artists.
+- No burning lower than 21 to respect the collection community and other artists.
 
 Required to submit:
-- Currently there is no token burn required
-- Instead artist are required to contribute/participate in the community evolving art piece: THETIMESNEWS - See More Here
+- Currently there is no token burn required. Instead artist are asked to contribute/participate in the community evolving art piece: THETIMESNEWS - <a href="https://rarebtc.art/comcard/">Click Here</a>
 
 <img src="https://bafybeid56ngwqopaj2afzil5ohdqligfcsz65rqccmxocidrfkzcw44tsy.ipfs.nftstorage.link/" max-width="100%" height="auto">
 
-*Blocks must NOT be distributed before they are confirmed and live on the website. Any distribution prior to this will result in the work not being added to the collection.
+*Blocks MUST NOT be distributed before they are confirmed and live on the website. Any distribution prior to this will result in the work not being added to the collection.
 
 <form
   action="https://usebasin.com/f/17f8ff352369"

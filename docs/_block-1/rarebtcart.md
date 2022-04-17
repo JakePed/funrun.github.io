@@ -10,6 +10,11 @@ image:
 date: 01/01/1002
 description: A block so rare it can't be bought!
 subs: 
+  -
+    name: PHYSICAL
+    image: 
+    supply: 0
+    author: Pepe Peddler
 
     
 
