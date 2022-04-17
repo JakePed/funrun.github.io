@@ -19,7 +19,7 @@ subs:
     name: EXPLICITCONTENT
     image: 
     supply:  2009  
-    author: Pepe-Peddler
+    author: Pepe Peddler
     
 
 # Do NOT edit beyond here
