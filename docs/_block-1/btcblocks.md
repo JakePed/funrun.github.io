@@ -12,7 +12,7 @@ subs:
     name: GAVINANDERON
     image: https://bafkreiazd5kdb3gk53bd7vurni7m65iz3w6c52kq56cuicrmnwqdc3yntu.ipfs.nftstorage.link/
     supply: 105   
-    author: pepe-peddler
+    author: Pepe-Peddler
   -
     name: ADAMBACK
     image: https://bafkreigqlyr5ymcbcakmdzrlpy5s3y3i7fiuqqhbss35b4gqxcr326xwaa.ipfs.nftstorage.link/
