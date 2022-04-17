@@ -5,6 +5,7 @@ layout: home
 {% assign video_ext = page.video | split: '.' | last %}
 {% assign artist = site.artists | where_exp: 'item', "item.title == page.author" %}
 
+
 {% if video_ext == 'mp4' or video_ext == 'm4v' %}
   {% assign video_type = 'mp4' %}
 {% elsif video_ext == 'ogv' or video_ext == 'ogg' %}
@@ -41,7 +42,7 @@ layout: home
 </p>
 
 <h3>Included in this Block</h3>
- 
+ {% assign artist = site.artists | where_exp: 'item', "item.title == sub.author" %}
 <ul class="sub-assets">
 {% for sub in page.subs %}
   <li>
