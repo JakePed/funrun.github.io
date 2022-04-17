@@ -16,7 +16,7 @@ subs:
     author: The Times News
   -
     name: EXPLICITCONTENT
-    image: 
+    image: https://bafybeifgwlqrwcocjif4pj2j325xse6y6txmbrfdc3x2tvwj3oncvpaha4.ipfs.nftstorage.link/
     supply: 2009
     author: Pepe-Peddler
     
