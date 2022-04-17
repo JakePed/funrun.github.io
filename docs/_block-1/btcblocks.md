@@ -17,22 +17,22 @@ subs:
     name: ADAMBACK
     image: https://bafkreigqlyr5ymcbcakmdzrlpy5s3y3i7fiuqqhbss35b4gqxcr326xwaa.ipfs.nftstorage.link/
     supply: 105   
-    author: Pepe-Peddler
+    author: Pepe Peddler
   -
     name: NICKSZABO
     image: https://bafkreid5nkiwqx37w746ovrx2gsdyvdkh4no7tltwavhupaedchfd5xsoq.ipfs.nftstorage.link/
     supply: 105   
-    author: Pepe-Peddler
+    author: Pepe Peddler
   -
     name: HALFINNEY
     image: https://bafkreietj2ebfl52suxkptfq3ozndx6lnfhvhdh42yqbikyogdiglgwmay.ipfs.nftstorage.link/
     supply: 105   
-    author: Pepe-Peddler
+    author: Pepe Peddler
   -
     name: ANDREASANTONOPOULOS
     image: 
     supply: 105   
-    author: Pepe-Peddler
+    author: Pepe Peddler
     
 
 # Do NOT edit beyond here

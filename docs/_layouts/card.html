@@ -50,7 +50,7 @@ layout: home
       <b>{{ sub.name }}</b>
     </a>
     <p class="small">Block {{forloop.index}}, Supply {{ sub.supply }}</p>
- <p class="small">By <a href="{{ artist[0].url | relative_url | downcase }}">{{ sub.author }}</a>{% else %}{{ sub.author }}</p>
+ <p class="small">By {% if artist[0] %}<a href="{{ artist[0].url | relative_url | downcase }}">{{ sub.author }}</a>{% else %}{{ sub.author }}</p>
   </li>
 {% endfor %}
 </ul>
