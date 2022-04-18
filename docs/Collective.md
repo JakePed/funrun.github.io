@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Com card
-permalink: /comcard/
+title: Collective Creaction
+permalink: /collectivecreation/
 ---
 
 THETIMESNEWS: 
