@@ -15,10 +15,16 @@ subs:
     supply: 2009
     author: The Times News
   -
+    name: TERMINAL
+    image: https://bafybeigzvxpfe7bvdczoh3dlqccfbctkqqfuhnhinosjr7gqg6pmejzjxu.ipfs.nftstorage.link/
+    supply: 2009
+    author: Pepe Peddler
+  -
     name: BTCBLOCKS
     image: https://bafkreibuehjwsmhuxtlpxn6r25srkpoigaxbd62vi2qm2wamlr75ru2ufm.ipfs.nftstorage.link/
     supply: 2009
     author: Pepe Peddler
+
     
 # Do NOT edit beyond here
 layout: card
