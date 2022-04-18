@@ -46,6 +46,19 @@ Required to submit:
 <input type="text" name="Token Supply" />
 <label for="message">Description<span class="small">(required)</span></label>
     <textarea name="message"></textarea>
+<label for="message">Sub assests <span class="small">(required)</span></label>
+<textarea name="message" wrap="hard" required>
+  -
+    name: SUBNAME
+    image: https://imagelink.com
+    supply: 21
+    artist:
+  -
+    name: SUBNAME
+    image: https://imagelink.com
+    supply: 21
+    artist:
+</textarea>
 <button type="submit" id="form-button">Submit</button>
 <div id="form-message"></div>
 </form>
