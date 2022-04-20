@@ -6,12 +6,12 @@ permalink: /submit/
 
 PLEASE READ CAREFULLY BEFORE SUBMITTING:
 
-If you are adding subassests to an already listed card, please do so from here - <a href="https://rarebtc.art/addsub/">>CLICK HERE</a
+If you are adding subassests to an already listed card, please do so from here - <a href="https://rarebtc.art/add-subs/">ADD SUBASSETS</a>
 
 
 Canvas & File Sizes:
 - It's your canvas, no more trimming!
-- If you can keep file sizes for the site to a minimum whilst preserving the details around 10mb is fine.
+- If you can keep file sizes for the site to a minimum whilst preserving the details, around 10mb is fine, not a limit though.
 
 Supply & Submission:
 - Min Supply of 21
@@ -23,7 +23,7 @@ Guidelines:
 - No burning lower than 21 to respect the collection community and other artists.
 
 Required to submit:
-- Currently there is no token burn required. Instead artist are asked to contribute/participate in the community evolving art piece: THETIMESNEWS - <a href="https://rarebtc.art/comcard/">Click Here</a>
+- Currently there is no token burn required. Instead artist are asked to contribute/participate in the community evolving art piece: THETIMESNEWS - <a href="https://rarebtc.art/collectivecreation/">Click Here</a>
 
 <img src="https://bafybeid56ngwqopaj2afzil5ohdqligfcsz65rqccmxocidrfkzcw44tsy.ipfs.nftstorage.link/" max-width="100%" height="auto">
 
