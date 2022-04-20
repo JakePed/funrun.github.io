@@ -6,9 +6,12 @@ permalink: /submit/
 
 PLEASE READ CAREFULLY BEFORE SUBMITTING:
 
+If you are adding subassests to an already listed card, please do so from here - <a href="https://rarebtc.art/addsub/">>CLICK HERE</a
+
+
 Canvas & File Sizes:
 - It's your canvas, no more trimming!
-- If you can keep file sizes for the site to a minimum whilst preserving the details 10mb is fine.
+- If you can keep file sizes for the site to a minimum whilst preserving the details around 10mb is fine.
 
 Supply & Submission:
 - Min Supply of 21
