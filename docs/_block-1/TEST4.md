@@ -1,16 +1,14 @@
 ---
-name: COMING SOON
-supply: 297
+name: TEST
+supply: 2009
 series: 1
-card: 18
-author: Pepe Peddler
+block: 3
+author: Community
 image: 
 video: 
-date: 01/01/1018
+date: 01/01/1004
 description: 
-subs: 
 
-    
 
 # Do NOT edit beyond here
 layout: card
